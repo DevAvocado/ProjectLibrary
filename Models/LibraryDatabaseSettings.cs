@@ -7,4 +7,6 @@ public class LibraryDatabaseSettings
     public string DatabaseName { get; set; } = null!;
 
     public string BooksCollectionName { get; set; } = null!;
+
+    public string RateBookCollectionName { get; set; } = null!;
 }
